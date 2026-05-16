@@ -1,5 +1,5 @@
-# about me 👋
-Here are some ideas to get you started:
+# 个人介绍
+
 
 - 集成电路工程在读研究生
 - 初步尝试AI运用
